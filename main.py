@@ -1,1 +1,1 @@
-print("KIngShatha")
+print("Shatha")
